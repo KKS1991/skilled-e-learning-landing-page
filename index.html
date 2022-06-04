@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!--Links Favicon, Bootrstrap & customized style.css-->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/style.css">
+
+  <!--fontfamily-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;800&display=swap" rel="stylesheet"> 
+
+  <title>Frontend Mentor | Skilled e-learning landing page</title>
+</head>
+
+<body>
+
+  <!--Header with a logo and "Get-Started-Button"-->
+  <header class="header"> 
+    <div id="header" class="container">
+      <div class="logo__container">
+        <span class="logo"><img src="assets/logo-dark.svg" alt="Logo"></span>     
+      </div>
+      <div class="btn__container">
+        <button class="btn btn_small btn_darkblue">Get Started</button>
+      </div>
+    </div>    
+  </header>
+
+  <main>
+    <!--Hero-section with "Get-Started-Button", Image with forms and two info-boxes-->
+    <section class="hero">
+      <div id="hero" class="container">
+        <div class="hero__textcontainer">
+          <h1 class="hero__title">Maximize skill, minimize budget</h1>
+          <p class="hero__text">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
+          <button class="btn btn_larger btn_roseorange">Get Started</button>
+        </div>
+        <picture>
+          <source media="(min-width: 1440px)"
+                  srcset="/assets/image-hero-desktop.webp" >
+          <source media="(min-width: 720px)"
+                  srcset="/assets/image-hero-tablet.webp">
+          <source srcset="/assets/image-hero-mobile.webp">
+          <img class="hero__img" src="assets/image-hero-mobile.webp" alt="A woman with a cup">
+        </picture>
+      </div>
+    </section>
+
+    <!--Course-section with 6 cards and 5 courses-->
+    <section class="course">
+      <div id="course" class="container">
+        <div class="card card__introduction">
+          <div class="card__body">
+            <h2 class="card__title-introduction">Check out our most popular courses!</h2>
+          </div>
+        </div>
+        <div class="card border-light">
+          <div class="card__body">
+            <img class="card__icon" src="/assets/icon-animation.svg" alt="Icon animation">
+            <h3 class="card__title">Animation</h3>
+            <p class="card__text">Learn the latest animation techniques to create stunning motion 
+              design and captivate your audience.</p>
+            <a class="card__link" href="#">Get Started</a>  
+          </div>
+        </div>
+        <div class="card border-light">
+          <div class="card__body">
+            <img class="card__icon" src="/assets/icon-design.svg" alt="Icon design">
+            <h3 class="card__title">Design</h3>
+            <p class="card__text">Create beautiful, usable interfaces to help shape the future of 
+              how the web looks. Wow, wow, wow.</p>
+            <a class="card__link" href="#">Get Started</a>  
+          </div>
+        </div>
+        <div class="card border-light">
+          <div class="card__body">
+            <img class="card__icon" src="/assets/icon-photography.svg" alt="Icon photography">
+            <h3 class="card__title">Photography</h3>
+            <p class="card__text">Explore critical fundamentals like lighting, composition, and focus 
+              to capture exceptional photos.</p>
+            <a class="card__link" href="#">Get Started</a>  
+          </div>
+        </div>
+        <div class="card border-light">
+          <div class="card__body">
+            <img class="card__icon" src="/assets/icon-crypto.svg" alt="Icon crypto">
+            <h3 class="card__title">Crypto</h3>
+            <p class="card__text">All you need to know to get started investing in crypto. Go from beginner 
+              to advanced with this 54 hour course.</p>
+            <a class="card__link" href="#">Get Started</a>  
+          </div>
+        </div>
+        <div class="card border-light">
+          <div class="card__body">
+            <img class="card__icon" src="/assets/icon-business.svg" alt="Icon business">
+            <h3 class="card__title">Business</h3>
+            <p class="card__text">A step-by-step playbook to help you start, scale, and sustain your business 
+              without outside investment.</p>
+            <a class="card__link" href="#">Get Started</a>  
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!--Footer with a logo and "Get-Started-Button"-->
+  <footer class="footer">
+    <div id="footer" class="container">
+      <div class="logo__container">
+        <span class="logo"><img src="assets/logo-light.svg" alt="Logo"></span>     
+      </div>
+      <div class="btn__container">
+        <button class="btn btn_small btn_roseviolet">Get Started</button>
+      </div>
+    </div>    
+  </footer>
+
+</body>
+</html>
