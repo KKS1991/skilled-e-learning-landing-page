@@ -67,7 +67,7 @@ I've also learned that CSS-Grid isn't appropriate for me to build a header or fo
 }
 ```
 
-A additinal issue i see here
+A additional issue i see here
 
 ```CSS
 #hero {
@@ -80,7 +80,7 @@ A additinal issue i see here
   padding: 1rem 1rem;}
 ```
 
-I centered the cards in the CSS-Grid-Container to avoid an overflow/scrolling on the right side. Otherwise they doesn't match on the screensize. Now the doesn't match in the CSS-Grid-Container.
+I centered the cards in the CSS-Grid-Container to avoid an overflow/scrolling on the right side. Otherwise they doesn't match on the screensize. Now the grid-elements doesn't match in the CSS-Grid-Container.
 `
 
 ## Author
