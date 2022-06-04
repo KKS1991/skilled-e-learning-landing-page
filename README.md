@@ -30,8 +30,6 @@ Your users should be able to:
 ### Screenshot
 
 ![Desktop-Version](/screenshots/ss_desktop.jpg)
-![Desktop-Version](/screenshots/ss_tablet.jpg)
-![Desktop-Version](/screenshots/ss_mobile.jpg)
 
 ### Links
 
