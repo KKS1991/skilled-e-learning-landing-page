@@ -133,6 +133,12 @@ ________________________*/
     background: var(--clr-darkblue);
 }
 
+@media (min-width: 1440px) {
+    .btn_darkblue {
+        margin-right: 8rem;
+    }
+}
+
 .btn_darkblue:hover {
     background: var(--clr-greyblue);
     color: var(--clr-white);
@@ -193,8 +199,19 @@ _____________________*/
 }
 
 @media (min-width: 1440px) {
+   
+    .hero__textcontainer {
+        position: relative;
+        top: 6rem;
+    }
+
     .hero__title {
         width: 60%;
+    }
+
+    .hero__img {
+        right: -15rem;
+        top: -14rem;
     }
 }
 
@@ -270,8 +287,5 @@ ______________________*/
     color: var(--clr-darkrose);
 }
 
-
-
-/* Footer properties */
 
 
