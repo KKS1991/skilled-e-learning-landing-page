@@ -29,13 +29,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Desktop-Version (screenshots/ss_desktop.jpg)
-
-Tablet-Version (screenshots/ss_tablet.jpg)
-
-Mobile-Version (screenshots/ss_mobile.jpg)
+![Desktop-Version]("C:\Users\kevin\OneDrive\Desktop\Repositories\skilled-e-learning-landing-page\screenshots\ss_desktop.jpg")
 
 ### Links
 
