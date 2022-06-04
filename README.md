@@ -30,12 +30,12 @@ Your users should be able to:
 ### Screenshot
 
 ![Desktop-Version](/screenshots/ss_desktop.jpg)
-
-Test TEST TEST
+![Desktop-Version](/screenshots/ss_tablet.jpg)
+![Desktop-Version](/screenshots/ss_mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution]()
 
 ## My process
 
