@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![Desktop-Version]("C:\Users\kevin\OneDrive\Desktop\Repositories\skilled-e-learning-landing-page\screenshots\ss_desktop.jpg")
+![Desktop-Version](/.ss_desktop.jpg)
 
 ### Links
 
