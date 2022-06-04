@@ -53,7 +53,7 @@ Good things during the project
 - I've build a good HTML markup within a few hours
 - I was persistent and worked on the project even there were heavy parts/days
 - I've learned a lot about the the functions of frondentmentor.io, the slack community and Git/GitHub
-- I've learned that doesn't exist one solution. There are a few ways to solve a challenge.
+- I've learned that there isn't only one solution. There are a few ways to solve a challenge.
 
 Doesn't match my expectations
 
