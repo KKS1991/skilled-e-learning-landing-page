@@ -29,7 +29,9 @@ Your users should be able to:
 
 ### Screenshot
 
-![Desktop-Version](/.ss_desktop.jpg)
+![Desktop-Version](screenshots/.ss_desktop.jpg)
+
+Test
 
 ### Links
 
