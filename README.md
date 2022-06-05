@@ -35,7 +35,7 @@ Your users should be able to:
 
 - Solution URL: [My Solution](https://kks1991.github.io/skilled-e-learning-landing-page/)
 
-**Note: Unfortunately my landing page just display the <img> on the local level. Even i try every solution that i found in the www the <img> don't display on the Github Page. If there is someone who can help me with that matter i'm glad hearing from you!**
+**Note: Unfortunately my landing page just display the `<img>` on the local level. Even i try every solution that i found in the www the `<img>` don't display on the Github Page. If there is someone who can help me with that matter i'm glad hearing from you!**
 
 ## My process
 
