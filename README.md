@@ -35,6 +35,8 @@ Your users should be able to:
 
 - Solution URL: [My Solution](https://kks1991.github.io/skilled-e-learning-landing-page/)
 
+**Note: Unfortunately my landing page just display the <img> on the local level. Even i try every solution that i found in the www the <img> don't display on the Github Page. If there is someone who can help me with that matter i'm glad hearing from you!**
+
 ## My process
 
 ### Built with
@@ -51,6 +53,7 @@ Your users should be able to:
 Good things during the project
 
 - I've build a good HTML markup within a few hours
+- In my opinion i wrote a short and clear CSS-File with a bunch of useful variables
 - I was persistent and worked on the project even there were heavy parts/days
 - I've learned a lot about the the functions of frondentmentor.io, the slack community and Git/GitHub
 - I've learned that there isn't only one solution. There are a few ways to solve a challenge.
